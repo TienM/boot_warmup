@@ -18,5 +18,5 @@ Tutor (Oct 2014-March 2016)
 ##Additional Information
 * Languages: 
   * Programming: Javascript, Python, SQL
-  * Spoken: Spanish, French, Korean
+  * Spoken: Fluent in Spanish and French, Conversational in Korean
   
