@@ -1,7 +1,6 @@
 # Tien Mata
 
-*tien@codergv.org*
- * 1616 E. Griffin Pkwy #196 
+*tien@codergv.org* | 1616 E. Griffin Pkwy #196 
 
 ## Education
 University of Texas- San Antonio
